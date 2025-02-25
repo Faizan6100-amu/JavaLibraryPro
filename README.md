@@ -17,7 +17,7 @@ The **JavaLibraryPro** is a Java-based application that allows users to manage a
 ## How to Run
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/library-catalog-system.git
+   git clone https://github.com/your-username/JavaLibraryPro.git
    ```
 2. **Navigate to the Project Directory**:
    ```sh
@@ -54,14 +54,14 @@ Book added: The Java Handbook
 ```
 2. Add User
 Enter user ID: U123
-Enter name: John Doe
-User added: John Doe
+Enter name: Faizan
+User added: Faizan
 ```
 ```
 3. Borrow Book
 Enter user ID: U123
 Enter book ID to borrow: B001
-John Doe borrowed The Java Handbook
+Faizan borrowed The Java Handbook
 ```
 
 ## Future Enhancements
